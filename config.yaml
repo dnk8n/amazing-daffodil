@@ -20,7 +20,7 @@ params:
         url: /about
         style: link
       - type: action
-        label: Style Guide
+        label: Authentic Being
         url: /style-guide
         style: link
       - type: action
