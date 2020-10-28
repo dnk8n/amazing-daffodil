@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Dee's site
+subtitle: Hi I am D
 img_path: images/about.jpg
 layout: page
 excerpt: Authentic Being
