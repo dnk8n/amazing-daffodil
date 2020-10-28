@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: D
+subtitle: D's
 img_path: images/about.jpg
 layout: page
 ---
